@@ -1,0 +1,4 @@
+/gogowow/server/facecore/bin/authserver
+/gogowow/server/facecore/etc/authserver.conf.dist
+/gogowow/server/facecore/bin/worldserver
+/gogowow/server/facecore/etc/worldserver.conf.dist
