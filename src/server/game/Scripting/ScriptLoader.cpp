@@ -37,6 +37,11 @@ void AddSC_ArgentTournament();
 //Revenge od Dalaran squidrrel
 void AddSC_dalaran_squirrel();
 
+//NPC Customizer
+void AddSC_npc_customize();
+//Profession NPC
+void AddSC_professionnpc();
+
 // spells
 void AddSC_deathknight_spell_scripts();
 void AddSC_druid_spell_scripts();
@@ -1284,5 +1289,10 @@ void AddCustomScripts()
     AddSC_npc_mount();		
     AddSC_ArgentTournament();
     AddSC_dalaran_squirrel();
+	//NPC Customizer
+	AddSC_npc_customize();
+	//Profession NPC
+	AddSC_professionnpc();
+
 #endif
 }
